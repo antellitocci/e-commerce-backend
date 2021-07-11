@@ -27,7 +27,7 @@ A command-line application that allows the user to interact with a SQL database 
 
 ## Usage
 
-### [Instructional Video]()
+### [Instructional Video](https://youtu.be/Vs9k2rMYUpU)
 
 ### Guide
 
