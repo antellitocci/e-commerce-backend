@@ -62,26 +62,33 @@ All endpoints assume you are testing on your localhost.
 
 ### GET Routes
 All Categories
+
 <img alt="GET-categories" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fcategories-GET-blue"/>
 
 Single Category
+
 <img alt="GET-categories" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fcategories%2F%3Aid-GET-blue"/>
 
 All Products
+
 <img alt="GET-products" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fproducts-GET-blue"/>
 
 Single Product
+
 <img alt="GET-products" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fproducts%2F%3Aid-GET-blue"/>
 
 All Tags
+
 <img alt="GET-tags" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Ftags-GET-blue"/>
 
 Single Tag
+
 <img alt="GET-tags" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Ftags%2F%3Aid-GET-blue"/>
 
 
 ### POST Routes
 Create a new Category
+
 <img alt="POST-categories" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fcategories-POST-yellow"/>
 
 Sample request body
@@ -92,6 +99,7 @@ Sample request body
 ```
 
 Create a new Product
+
 <img alt="POST-products" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fproducts-POST-yellow"/>
 
 Sample request body
@@ -106,6 +114,7 @@ Sample request body
 ```
 
 Create a new Tag
+
 <img alt="POST-tags" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Ftags-POST-yellow"/>
 
 Sample request body
@@ -118,7 +127,9 @@ Sample request body
 
 ### PUT Routes
 Update Category by its ID
+
 <img alt="PUT-categories" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fcategories%2F%3Aid-PUT-orange"/>
+
 Sample request body
 ```javascript
 {
@@ -127,6 +138,7 @@ Sample request body
 ```
 
 Update Product by its ID
+
 <img alt="PUT-products" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fproducts%2F%3Aid-PUT-orange"/>
 
 Sample request body
@@ -141,6 +153,7 @@ Sample request body
 ```
 
 Update Tag by its ID
+
 <img alt="PUT-tags" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Ftags%2F%3Aid-PUT-orange"/>
 
 Sample request body
@@ -152,12 +165,15 @@ Sample request body
 
 ### DELETE Routes
 Delete Category by its ID
+
 <img alt="GET-categories" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fcategories%2F%3Aid-DEL-red"/>
 
 Delete Product by its ID
+
 <img alt="GET-products" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fproducts%2F%3Aid-DEL-red"/>
 
 Delete Tag by its ID
+
 <img alt="GET-tags" src="https://img.shields.io/badge/http%3A%2F%2Flocalhost%3A3001%2Fapi%2Ftags%2F%3Aid-DEL-red"/>
 
 ## Questions
