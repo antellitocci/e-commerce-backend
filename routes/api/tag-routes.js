@@ -11,6 +11,7 @@ router.get('/', (req, res) => {
     order: [['id']],
     include: [
       {
+        //since we're using an alias in the index, we need to use it here. Hence the as: 'assoc_products'
         model: Product, as: "assoc_products",
         attributes: ['id', 'product_name', 'price', 'stock', 'category_id'],
       }

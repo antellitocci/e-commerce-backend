@@ -16,6 +16,7 @@ A command-line application that allows the user to interact with a SQL database 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img alt="sequelize.js" src="https://img.shields.io/badge/Sequelize-.js-blue"/>
+<img alt="sequelize.js" src="https://img.shields.io/badge/dotenv-%20-green"/>
 
 ## Table of Contents
 
